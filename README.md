@@ -1,2 +1,2 @@
 # coindatascraper
-Once it reaches an operational stage, it's supposed to be able to scrape crypto currency market data from various APIs and cache it in a database for further use by other software.
+At some point, it's supposed to be able to scrape crypto currency market data from various APIs and cache it in a database for further use by other software. It's first operational stage is planned to only include support for one API, however.
